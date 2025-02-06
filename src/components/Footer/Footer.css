@@ -1,0 +1,16 @@
+.icon-circle {
+    width: 45px; 
+    height: 45px;
+    border-radius: 50%;
+    border: 1px solid white; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+
+  .pg-balckblue{
+    background-color: rgb(26, 37, 46);
+  }
+  
